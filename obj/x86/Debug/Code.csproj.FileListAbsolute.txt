@@ -1,0 +1,4 @@
+c:\users\leonm\documents\visual studio 2010\Projects\Code\Code\bin\Debug\Code.exe
+c:\users\leonm\documents\visual studio 2010\Projects\Code\Code\bin\Debug\Code.pdb
+c:\users\leonm\documents\visual studio 2010\Projects\Code\Code\obj\x86\Debug\Code.exe
+c:\users\leonm\documents\visual studio 2010\Projects\Code\Code\obj\x86\Debug\Code.pdb
